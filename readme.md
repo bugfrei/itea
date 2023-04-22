@@ -1,23 +1,16 @@
-# Titel...
+# iTea Tutorials
 
-Languages:
-- [english](./readme.md)
-- [deutsch](./readme_de.md)
+Hier eine Sammlung aller Themenbereiche meiner Tutorials
 
-Symbolic meaning:<br />
-👉 User activity here<br />
-⚡ Fast way
+## Inhaltsverzeichnis
 
-## Table of contents
+[PowerShell Core Grundlagen](https://github.com/bugfrei/itea-powershell.git)
 
-## Clone this Repository
 
-See [here](./clone-this-repo.md).
+## Andere nützliche Tutorials
 
-## Other usefull tutorials
+Teilweise mit ähnlichen Inhalten - Aber ohne passende TicToc Videos:
 
-- [The basics of PowerShell](https://github.com/bugfrei/ps-powershell-basics/)
-- [Interactiv PS Github Tutorial, german only](https://github.com/bugfrei/Git-Tutorial)
-
-More to come.
+- [PowerShell Basics](https://github.com/bugfrei/ps-powershell-basics/)
+- [Interaktives PS Github Tutorial, nur deutsch](https://github.com/bugfrei/Git-Tutorial)
 
